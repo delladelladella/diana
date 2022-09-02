@@ -1,0 +1,16 @@
+.diana {
+  height: 500px;
+  width: auto;
+  /* The following 3 properties align the image to the center. */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-text {
+  text-align: center;
+}
+
+.say {
+  /* color: #444; */
+}
